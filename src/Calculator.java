@@ -14,4 +14,7 @@ public static double divide(double n1, double n2) {
 
     return n1/n2;
 }
+    public static double multiply(double number1, double number2) {
+
+    return n1*n2;
 }
